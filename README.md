@@ -90,7 +90,8 @@ Humera Shaik
 
 📱 Phone: +91 7382273550
 
-🔗 LinkedIn(https://www.linkedin.com/in/humera-shaik-dataanalyst/)📄 [View My Resume](HS%20DA%2045.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/humera-shaik-dataanalyst/)
+📄 [View My Resume](HS%20DA%2045.pdf)
 
 
 
