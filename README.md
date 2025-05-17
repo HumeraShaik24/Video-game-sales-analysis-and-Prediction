@@ -70,7 +70,7 @@ Using Excel:
 
 > Dashboard visually supports strategic insights for regional marketing efforts
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 📌 How to extract storytelling insights from a large dataset
 
@@ -82,7 +82,7 @@ Using Excel:
 Made with 💻, 📊, and a passion for data storytelling.
 
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 Humera Shaik
 📊 Data Analyst | 🎯 Forecasting & Insight Generation | 🤖 AI Tools Explorer
 📧 Email: humerah610@gmail.com
