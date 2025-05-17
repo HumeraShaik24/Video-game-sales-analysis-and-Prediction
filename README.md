@@ -85,9 +85,12 @@ Made with 💻, 📊, and a passion for data storytelling.
 ## 👩‍💻 About Me
 Humera Shaik
 📊 Data Analyst | 🎯 Forecasting & Insight Generation | 🤖 AI Tools Explorer
+
 📧 Email: humerah610@gmail.com
+
 📱 Phone: +91 7382273550
 
-🔗 LinkedIn(https://www.linkedin.com/in/humera-shaik-dataanalyst/)📄 View My Resume
+🔗 LinkedIn(https://www.linkedin.com/in/humera-shaik-dataanalyst/)📄 View My Resume(Video-game-sales-analysis-and-Prediction
+/HS DA 45.pdf)
 
 
