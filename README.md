@@ -33,7 +33,7 @@ With a dataset of over **16,000 video games**, we aim to answer:
 
 ## 🖼️ Dashboard Preview
 
-![Sales Forecasting](Video-game-sales-analysis-and-Prediction/Visualizations/Sales%20forecasting.png)
+![Sales Forecasting](Video-game-sales-analysis-and-forecasting/Visualizations/Sales%20forecasting.png)
 
 > A forecasting dashboard was developed in **Excel** to predict future sales based on historical data using trendlines and regional breakdowns.
 
